@@ -9,3 +9,6 @@ APIs Utilizadas:
 https://sheetdb.io/apis
 https://viacep.com.br/ 
 https://home.openweathermap.org
+
+Vídeo da apresentação:
+https://www.youtube.com/watch?v=LQhiueJAr6k
