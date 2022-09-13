@@ -1,5 +1,4 @@
-# PLN-2022.2
-Projeto 2 do curso de Processamento da Linguagem Natural
+# PLN-2022.2 - Projeto 2 do curso de Processamento da Linguagem Natural
 
 Atividade 1 - Chatbot
 
